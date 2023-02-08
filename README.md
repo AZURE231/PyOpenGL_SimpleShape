@@ -1,6 +1,6 @@
 # PyOpenGL_SimpleShape
  ## A simple OpenGL program, which renders a RGB triangle into a window.
-![Image](RGB_triangle.png 100x100)
+![Image](RGB_triangle.png "RGB_triangle")
  ## A simple OpenGL program, which renders two blue triangles into a window.
 <img src="triangle.png" width="400" height="400" />
 </br>
