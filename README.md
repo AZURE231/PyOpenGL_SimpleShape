@@ -1,4 +1,4 @@
-# PyOpenGL_Triangle
+# PyOpenGL_SimpleShape
  * A simple OpenGL program, which renders two blue triangles into a window.
 <img src="triangle.png" width="400" height="400" />
 </br>
