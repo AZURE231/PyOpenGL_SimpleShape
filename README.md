@@ -2,7 +2,7 @@
  ## A simple OpenGL program, which renders a RGB triangle into a window.
 ![Image](RGB_triangle.png "RGB_triangle")
  ## A simple OpenGL program, which renders two blue triangles into a window.
-<img src="triangle.png" width="400" height="400" />
+![Image](triangle.png "triangle")
 </br>
  ## A simple OpenGL program, which renders two triangles and make it a square into a window.
-<img src="square.png" width="400" height="400" />
+![Image](square.png "square")
