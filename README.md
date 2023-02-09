@@ -9,3 +9,4 @@
 ![Image](square.png "square")
  ## A simple OpenGL program, which renders polygon shape into a window.
  ### Using GL_TRIANGLE_FAN
+ ![Image](polygon.png "square")
